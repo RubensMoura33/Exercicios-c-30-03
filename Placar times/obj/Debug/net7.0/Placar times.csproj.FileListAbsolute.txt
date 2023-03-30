@@ -1,0 +1,15 @@
+C:\Users\50496884859\Desktop\Placar times\bin\Debug\net7.0\Placar times.exe
+C:\Users\50496884859\Desktop\Placar times\bin\Debug\net7.0\Placar times.deps.json
+C:\Users\50496884859\Desktop\Placar times\bin\Debug\net7.0\Placar times.runtimeconfig.json
+C:\Users\50496884859\Desktop\Placar times\bin\Debug\net7.0\Placar times.dll
+C:\Users\50496884859\Desktop\Placar times\bin\Debug\net7.0\Placar times.pdb
+C:\Users\50496884859\Desktop\Placar times\obj\Debug\net7.0\Placar times.csproj.AssemblyReference.cache
+C:\Users\50496884859\Desktop\Placar times\obj\Debug\net7.0\Placar times.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50496884859\Desktop\Placar times\obj\Debug\net7.0\Placar times.AssemblyInfoInputs.cache
+C:\Users\50496884859\Desktop\Placar times\obj\Debug\net7.0\Placar times.AssemblyInfo.cs
+C:\Users\50496884859\Desktop\Placar times\obj\Debug\net7.0\Placar times.csproj.CoreCompileInputs.cache
+C:\Users\50496884859\Desktop\Placar times\obj\Debug\net7.0\Placar times.dll
+C:\Users\50496884859\Desktop\Placar times\obj\Debug\net7.0\refint\Placar times.dll
+C:\Users\50496884859\Desktop\Placar times\obj\Debug\net7.0\Placar times.pdb
+C:\Users\50496884859\Desktop\Placar times\obj\Debug\net7.0\Placar times.genruntimeconfig.cache
+C:\Users\50496884859\Desktop\Placar times\obj\Debug\net7.0\ref\Placar times.dll

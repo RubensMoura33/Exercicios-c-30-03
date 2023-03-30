@@ -1,0 +1,15 @@
+C:\Users\50496884859\Desktop\Orcamento\bin\Debug\net7.0\Orcamento.exe
+C:\Users\50496884859\Desktop\Orcamento\bin\Debug\net7.0\Orcamento.deps.json
+C:\Users\50496884859\Desktop\Orcamento\bin\Debug\net7.0\Orcamento.runtimeconfig.json
+C:\Users\50496884859\Desktop\Orcamento\bin\Debug\net7.0\Orcamento.dll
+C:\Users\50496884859\Desktop\Orcamento\bin\Debug\net7.0\Orcamento.pdb
+C:\Users\50496884859\Desktop\Orcamento\obj\Debug\net7.0\Orcamento.csproj.AssemblyReference.cache
+C:\Users\50496884859\Desktop\Orcamento\obj\Debug\net7.0\Orcamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50496884859\Desktop\Orcamento\obj\Debug\net7.0\Orcamento.AssemblyInfoInputs.cache
+C:\Users\50496884859\Desktop\Orcamento\obj\Debug\net7.0\Orcamento.AssemblyInfo.cs
+C:\Users\50496884859\Desktop\Orcamento\obj\Debug\net7.0\Orcamento.csproj.CoreCompileInputs.cache
+C:\Users\50496884859\Desktop\Orcamento\obj\Debug\net7.0\Orcamento.dll
+C:\Users\50496884859\Desktop\Orcamento\obj\Debug\net7.0\refint\Orcamento.dll
+C:\Users\50496884859\Desktop\Orcamento\obj\Debug\net7.0\Orcamento.pdb
+C:\Users\50496884859\Desktop\Orcamento\obj\Debug\net7.0\Orcamento.genruntimeconfig.cache
+C:\Users\50496884859\Desktop\Orcamento\obj\Debug\net7.0\ref\Orcamento.dll
