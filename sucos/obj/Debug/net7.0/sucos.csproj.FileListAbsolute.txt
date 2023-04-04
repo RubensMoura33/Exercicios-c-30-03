@@ -1,0 +1,15 @@
+C:\Users\50496884859\Desktop\sucos\bin\Debug\net7.0\sucos.exe
+C:\Users\50496884859\Desktop\sucos\bin\Debug\net7.0\sucos.deps.json
+C:\Users\50496884859\Desktop\sucos\bin\Debug\net7.0\sucos.runtimeconfig.json
+C:\Users\50496884859\Desktop\sucos\bin\Debug\net7.0\sucos.dll
+C:\Users\50496884859\Desktop\sucos\bin\Debug\net7.0\sucos.pdb
+C:\Users\50496884859\Desktop\sucos\obj\Debug\net7.0\sucos.csproj.AssemblyReference.cache
+C:\Users\50496884859\Desktop\sucos\obj\Debug\net7.0\sucos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50496884859\Desktop\sucos\obj\Debug\net7.0\sucos.AssemblyInfoInputs.cache
+C:\Users\50496884859\Desktop\sucos\obj\Debug\net7.0\sucos.AssemblyInfo.cs
+C:\Users\50496884859\Desktop\sucos\obj\Debug\net7.0\sucos.csproj.CoreCompileInputs.cache
+C:\Users\50496884859\Desktop\sucos\obj\Debug\net7.0\sucos.dll
+C:\Users\50496884859\Desktop\sucos\obj\Debug\net7.0\refint\sucos.dll
+C:\Users\50496884859\Desktop\sucos\obj\Debug\net7.0\sucos.pdb
+C:\Users\50496884859\Desktop\sucos\obj\Debug\net7.0\sucos.genruntimeconfig.cache
+C:\Users\50496884859\Desktop\sucos\obj\Debug\net7.0\ref\sucos.dll

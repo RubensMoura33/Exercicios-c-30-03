@@ -13,13 +13,13 @@ if (Gols1 > Gols2)
     
 }
 
-if (Gols2 > Gols1)
+else if (Gols2 > Gols1)
 {
     Console.WriteLine($"a segunda equipe equipe venceu");
     
 }
 
-if (Gols2 == Gols1)
+else if (Gols2 == Gols1)
 {
     Console.WriteLine($"O jogo empatou");
     

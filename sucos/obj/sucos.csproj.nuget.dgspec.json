@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\50496884859\\Desktop\\Atividades c#\\Placar times\\Placar times.csproj": {}
+    "C:\\Users\\50496884859\\Desktop\\sucos\\sucos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\50496884859\\Desktop\\Atividades c#\\Placar times\\Placar times.csproj": {
+    "C:\\Users\\50496884859\\Desktop\\sucos\\sucos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\50496884859\\Desktop\\Atividades c#\\Placar times\\Placar times.csproj",
-        "projectName": "Placar times",
-        "projectPath": "C:\\Users\\50496884859\\Desktop\\Atividades c#\\Placar times\\Placar times.csproj",
+        "projectUniqueName": "C:\\Users\\50496884859\\Desktop\\sucos\\sucos.csproj",
+        "projectName": "sucos",
+        "projectPath": "C:\\Users\\50496884859\\Desktop\\sucos\\sucos.csproj",
         "packagesPath": "C:\\Users\\50496884859\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\50496884859\\Desktop\\Atividades c#\\Placar times\\obj\\",
+        "outputPath": "C:\\Users\\50496884859\\Desktop\\sucos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\50496884859\\AppData\\Roaming\\NuGet\\NuGet.Config",
