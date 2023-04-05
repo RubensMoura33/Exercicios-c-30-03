@@ -38,7 +38,7 @@ while (salario <=0)
     salario = float.Parse(Console.ReadLine());
 }
 
-while (estadoCivil == 's' && estadoCivil == 'c'&& estadoCivil == 'v' && estadoCivil == 'd')
+while (estadoCivil != 's' && estadoCivil != 'c'&& estadoCivil != 'v' && estadoCivil != 'd')
 {
     Console.WriteLine($"Digite 'c' para casado, 's' para solteiro, 'v' para viuvo ou 'd' para divorciado");
     estadoCivil = char.Parse(Console.ReadLine());

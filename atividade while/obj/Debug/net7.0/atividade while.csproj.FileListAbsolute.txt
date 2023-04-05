@@ -13,3 +13,18 @@ C:\Users\50496884859\Desktop\atividade while\obj\Debug\net7.0\refint\atividade w
 C:\Users\50496884859\Desktop\atividade while\obj\Debug\net7.0\atividade while.pdb
 C:\Users\50496884859\Desktop\atividade while\obj\Debug\net7.0\atividade while.genruntimeconfig.cache
 C:\Users\50496884859\Desktop\atividade while\obj\Debug\net7.0\ref\atividade while.dll
+C:\Users\50496884859\Desktop\Atividades c#\atividade while\bin\Debug\net7.0\atividade while.exe
+C:\Users\50496884859\Desktop\Atividades c#\atividade while\bin\Debug\net7.0\atividade while.deps.json
+C:\Users\50496884859\Desktop\Atividades c#\atividade while\bin\Debug\net7.0\atividade while.runtimeconfig.json
+C:\Users\50496884859\Desktop\Atividades c#\atividade while\bin\Debug\net7.0\atividade while.dll
+C:\Users\50496884859\Desktop\Atividades c#\atividade while\bin\Debug\net7.0\atividade while.pdb
+C:\Users\50496884859\Desktop\Atividades c#\atividade while\obj\Debug\net7.0\atividade while.csproj.AssemblyReference.cache
+C:\Users\50496884859\Desktop\Atividades c#\atividade while\obj\Debug\net7.0\atividade while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50496884859\Desktop\Atividades c#\atividade while\obj\Debug\net7.0\atividade while.AssemblyInfoInputs.cache
+C:\Users\50496884859\Desktop\Atividades c#\atividade while\obj\Debug\net7.0\atividade while.AssemblyInfo.cs
+C:\Users\50496884859\Desktop\Atividades c#\atividade while\obj\Debug\net7.0\atividade while.csproj.CoreCompileInputs.cache
+C:\Users\50496884859\Desktop\Atividades c#\atividade while\obj\Debug\net7.0\atividade while.dll
+C:\Users\50496884859\Desktop\Atividades c#\atividade while\obj\Debug\net7.0\refint\atividade while.dll
+C:\Users\50496884859\Desktop\Atividades c#\atividade while\obj\Debug\net7.0\atividade while.pdb
+C:\Users\50496884859\Desktop\Atividades c#\atividade while\obj\Debug\net7.0\atividade while.genruntimeconfig.cache
+C:\Users\50496884859\Desktop\Atividades c#\atividade while\obj\Debug\net7.0\ref\atividade while.dll
