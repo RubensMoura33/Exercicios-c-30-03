@@ -1,0 +1,15 @@
+C:\Users\50496884859\Desktop\nome-senha\bin\Debug\net7.0\nome-senha.exe
+C:\Users\50496884859\Desktop\nome-senha\bin\Debug\net7.0\nome-senha.deps.json
+C:\Users\50496884859\Desktop\nome-senha\bin\Debug\net7.0\nome-senha.runtimeconfig.json
+C:\Users\50496884859\Desktop\nome-senha\bin\Debug\net7.0\nome-senha.dll
+C:\Users\50496884859\Desktop\nome-senha\bin\Debug\net7.0\nome-senha.pdb
+C:\Users\50496884859\Desktop\nome-senha\obj\Debug\net7.0\nome-senha.csproj.AssemblyReference.cache
+C:\Users\50496884859\Desktop\nome-senha\obj\Debug\net7.0\nome-senha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50496884859\Desktop\nome-senha\obj\Debug\net7.0\nome-senha.AssemblyInfoInputs.cache
+C:\Users\50496884859\Desktop\nome-senha\obj\Debug\net7.0\nome-senha.AssemblyInfo.cs
+C:\Users\50496884859\Desktop\nome-senha\obj\Debug\net7.0\nome-senha.csproj.CoreCompileInputs.cache
+C:\Users\50496884859\Desktop\nome-senha\obj\Debug\net7.0\nome-senha.dll
+C:\Users\50496884859\Desktop\nome-senha\obj\Debug\net7.0\refint\nome-senha.dll
+C:\Users\50496884859\Desktop\nome-senha\obj\Debug\net7.0\nome-senha.pdb
+C:\Users\50496884859\Desktop\nome-senha\obj\Debug\net7.0\nome-senha.genruntimeconfig.cache
+C:\Users\50496884859\Desktop\nome-senha\obj\Debug\net7.0\ref\nome-senha.dll
