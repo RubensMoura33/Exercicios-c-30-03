@@ -1,0 +1,15 @@
+C:\Users\50496884859\Desktop\Gasolina\bin\Debug\net7.0\Gasolina.exe
+C:\Users\50496884859\Desktop\Gasolina\bin\Debug\net7.0\Gasolina.deps.json
+C:\Users\50496884859\Desktop\Gasolina\bin\Debug\net7.0\Gasolina.runtimeconfig.json
+C:\Users\50496884859\Desktop\Gasolina\bin\Debug\net7.0\Gasolina.dll
+C:\Users\50496884859\Desktop\Gasolina\bin\Debug\net7.0\Gasolina.pdb
+C:\Users\50496884859\Desktop\Gasolina\obj\Debug\net7.0\Gasolina.csproj.AssemblyReference.cache
+C:\Users\50496884859\Desktop\Gasolina\obj\Debug\net7.0\Gasolina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50496884859\Desktop\Gasolina\obj\Debug\net7.0\Gasolina.AssemblyInfoInputs.cache
+C:\Users\50496884859\Desktop\Gasolina\obj\Debug\net7.0\Gasolina.AssemblyInfo.cs
+C:\Users\50496884859\Desktop\Gasolina\obj\Debug\net7.0\Gasolina.csproj.CoreCompileInputs.cache
+C:\Users\50496884859\Desktop\Gasolina\obj\Debug\net7.0\Gasolina.dll
+C:\Users\50496884859\Desktop\Gasolina\obj\Debug\net7.0\refint\Gasolina.dll
+C:\Users\50496884859\Desktop\Gasolina\obj\Debug\net7.0\Gasolina.pdb
+C:\Users\50496884859\Desktop\Gasolina\obj\Debug\net7.0\Gasolina.genruntimeconfig.cache
+C:\Users\50496884859\Desktop\Gasolina\obj\Debug\net7.0\ref\Gasolina.dll

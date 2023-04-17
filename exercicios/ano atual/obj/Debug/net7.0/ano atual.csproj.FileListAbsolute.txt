@@ -1,0 +1,15 @@
+C:\Users\50496884859\Desktop\ano atual\bin\Debug\net7.0\ano atual.exe
+C:\Users\50496884859\Desktop\ano atual\bin\Debug\net7.0\ano atual.deps.json
+C:\Users\50496884859\Desktop\ano atual\bin\Debug\net7.0\ano atual.runtimeconfig.json
+C:\Users\50496884859\Desktop\ano atual\bin\Debug\net7.0\ano atual.dll
+C:\Users\50496884859\Desktop\ano atual\bin\Debug\net7.0\ano atual.pdb
+C:\Users\50496884859\Desktop\ano atual\obj\Debug\net7.0\ano atual.csproj.AssemblyReference.cache
+C:\Users\50496884859\Desktop\ano atual\obj\Debug\net7.0\ano atual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50496884859\Desktop\ano atual\obj\Debug\net7.0\ano atual.AssemblyInfoInputs.cache
+C:\Users\50496884859\Desktop\ano atual\obj\Debug\net7.0\ano atual.AssemblyInfo.cs
+C:\Users\50496884859\Desktop\ano atual\obj\Debug\net7.0\ano atual.csproj.CoreCompileInputs.cache
+C:\Users\50496884859\Desktop\ano atual\obj\Debug\net7.0\ano atual.dll
+C:\Users\50496884859\Desktop\ano atual\obj\Debug\net7.0\refint\ano atual.dll
+C:\Users\50496884859\Desktop\ano atual\obj\Debug\net7.0\ano atual.pdb
+C:\Users\50496884859\Desktop\ano atual\obj\Debug\net7.0\ano atual.genruntimeconfig.cache
+C:\Users\50496884859\Desktop\ano atual\obj\Debug\net7.0\ref\ano atual.dll
