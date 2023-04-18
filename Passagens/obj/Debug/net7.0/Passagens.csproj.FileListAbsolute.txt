@@ -1,0 +1,15 @@
+C:\Users\50496884859\Desktop\Passagens\bin\Debug\net7.0\Passagens.exe
+C:\Users\50496884859\Desktop\Passagens\bin\Debug\net7.0\Passagens.deps.json
+C:\Users\50496884859\Desktop\Passagens\bin\Debug\net7.0\Passagens.runtimeconfig.json
+C:\Users\50496884859\Desktop\Passagens\bin\Debug\net7.0\Passagens.dll
+C:\Users\50496884859\Desktop\Passagens\bin\Debug\net7.0\Passagens.pdb
+C:\Users\50496884859\Desktop\Passagens\obj\Debug\net7.0\Passagens.csproj.AssemblyReference.cache
+C:\Users\50496884859\Desktop\Passagens\obj\Debug\net7.0\Passagens.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50496884859\Desktop\Passagens\obj\Debug\net7.0\Passagens.AssemblyInfoInputs.cache
+C:\Users\50496884859\Desktop\Passagens\obj\Debug\net7.0\Passagens.AssemblyInfo.cs
+C:\Users\50496884859\Desktop\Passagens\obj\Debug\net7.0\Passagens.csproj.CoreCompileInputs.cache
+C:\Users\50496884859\Desktop\Passagens\obj\Debug\net7.0\Passagens.dll
+C:\Users\50496884859\Desktop\Passagens\obj\Debug\net7.0\refint\Passagens.dll
+C:\Users\50496884859\Desktop\Passagens\obj\Debug\net7.0\Passagens.pdb
+C:\Users\50496884859\Desktop\Passagens\obj\Debug\net7.0\Passagens.genruntimeconfig.cache
+C:\Users\50496884859\Desktop\Passagens\obj\Debug\net7.0\ref\Passagens.dll
